@@ -10,5 +10,10 @@ public class Main {
         basicFutures.headlights="Blue";
         basicFutures.registrationNumbers="shsosm";
 
+        // Lets write our own code
+        System.out.println("Welcome to my Car");
+        System.out.println("The radio is set to 80MHZ");
+        System.out.println("Turn on the air conditioner");
+        
     }
 }
